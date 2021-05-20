@@ -1,0 +1,10 @@
+E:\gametest\gametest\obj\Debug\gametest.csprojAssemblyReference.cache
+E:\gametest\gametest\obj\Debug\gametest.Form1.resources
+E:\gametest\gametest\obj\Debug\gametest.Properties.Resources.resources
+E:\gametest\gametest\obj\Debug\gametest.csproj.GenerateResource.cache
+E:\gametest\gametest\obj\Debug\gametest.csproj.CoreCompileInputs.cache
+E:\gametest\gametest\bin\Debug\gametest.exe.config
+E:\gametest\gametest\bin\Debug\gametest.exe
+E:\gametest\gametest\bin\Debug\gametest.pdb
+E:\gametest\gametest\obj\Debug\gametest.exe
+E:\gametest\gametest\obj\Debug\gametest.pdb
